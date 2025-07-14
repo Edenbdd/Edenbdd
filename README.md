@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eden</h1>
-<h3 align="center">An aspiring Machine Learning engineer from Paris</h3>
+<h3 align="center">An aspiring ML Ops from Paris</h3>
 
 - 🔭 I’m currently working on **42 School Common Core**
 
-- 🌱 I’m currently learning **Machine Learning Specialization (by Andrew NG)**
+- 🌱 I’m currently learning **ML Ops certification by Duke University**
 
 - 📫 How to reach me **eden.bertrandd@gmail.com**
 
